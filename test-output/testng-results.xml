@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing test Random Test]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing TestCase_001.setup]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing TestCase_001.setup]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing TestCase_002.setup]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing TestCase_002.setup]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing TestCase_003.setup]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing TestCase_003.setup]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing TestCase_001.testSearchProduct]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing TestCase_001.testSearchProduct]]>
+    </line>
+    <line>
+      <![CDATA[TestName = null]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in testCases.TestCase_001]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing TestCase_002.testSearchProduct]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing TestCase_002.testSearchProduct]]>
+    </line>
+    <line>
+      <![CDATA[TestName = null]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in testCases.TestCase_002]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing TestCase_003.testSearchProduct]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing TestCase_003.testSearchProduct]]>
+    </line>
+    <line>
+      <![CDATA[TestName = null]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in testCases.TestCase_003]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing TestCase_001.endTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing TestCase_001.endTest]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing TestCase_002.endTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing TestCase_002.endTest]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing TestCase_003.endTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing TestCase_003.endTest]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79434" started-at="2021-03-10T23:56:07 IST" finished-at="2021-03-10T23:57:27 IST">
+    <groups>
+    </groups>
+    <test name="Random Test" duration-ms="79434" started-at="2021-03-10T23:56:07 IST" finished-at="2021-03-10T23:57:27 IST">
+      <class name="testCases.TestCase_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestCase_001@1d8d30f7]" name="setup" is-config="true" duration-ms="7843" started-at="2021-03-10T23:56:07 IST" finished-at="2021-03-10T23:56:15 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing TestCase_001.setup]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSearchProduct()[pri:0, instance:testCases.TestCase_001@1d8d30f7]" name="testSearchProduct" duration-ms="18163" started-at="2021-03-10T23:56:49 IST" finished-at="2021-03-10T23:57:07 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[About to begin executing TestCase_001.testSearchProduct]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing TestCase_001.testSearchProduct]]>
+            </line>
+            <line>
+              <![CDATA[TestName = null]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in testCases.TestCase_001]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSearchProduct -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:testCases.TestCase_001@1d8d30f7]" name="endTest" is-config="true" duration-ms="1509" started-at="2021-03-10T23:57:23 IST" finished-at="2021-03-10T23:57:24 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing TestCase_001.endTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- testCases.TestCase_001 -->
+      <class name="testCases.TestCase_003">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestCase_003@6b9651f3]" name="setup" is-config="true" duration-ms="19286" started-at="2021-03-10T23:56:30 IST" finished-at="2021-03-10T23:56:49 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing TestCase_003.setup]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSearchProduct()[pri:0, instance:testCases.TestCase_003@6b9651f3]" name="testSearchProduct" duration-ms="10642" started-at="2021-03-10T23:57:12 IST" finished-at="2021-03-10T23:57:23 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[About to begin executing TestCase_003.testSearchProduct]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing TestCase_003.testSearchProduct]]>
+            </line>
+            <line>
+              <![CDATA[TestName = null]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in testCases.TestCase_003]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSearchProduct -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:testCases.TestCase_003@6b9651f3]" name="endTest" is-config="true" duration-ms="1101" started-at="2021-03-10T23:57:26 IST" finished-at="2021-03-10T23:57:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing TestCase_003.endTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- testCases.TestCase_003 -->
+      <class name="testCases.TestCase_002">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestCase_002@5bb21b69]" name="setup" is-config="true" duration-ms="14598" started-at="2021-03-10T23:56:15 IST" finished-at="2021-03-10T23:56:30 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing TestCase_002.setup]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSearchProduct()[pri:0, instance:testCases.TestCase_002@5bb21b69]" name="testSearchProduct" duration-ms="4911" started-at="2021-03-10T23:57:07 IST" finished-at="2021-03-10T23:57:12 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[About to begin executing TestCase_002.testSearchProduct]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing TestCase_002.testSearchProduct]]>
+            </line>
+            <line>
+              <![CDATA[TestName = null]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in testCases.TestCase_002]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSearchProduct -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:testCases.TestCase_002@5bb21b69]" name="endTest" is-config="true" duration-ms="1164" started-at="2021-03-10T23:57:24 IST" finished-at="2021-03-10T23:57:26 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing TestCase_002.endTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- testCases.TestCase_002 -->
+    </test> <!-- Random Test -->
+  </suite> <!-- Suite -->
+</testng-results>
